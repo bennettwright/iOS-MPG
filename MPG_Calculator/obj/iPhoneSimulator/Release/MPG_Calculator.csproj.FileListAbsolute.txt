@@ -1,0 +1,11 @@
+/Users/b/Projects/iOS/MPG_Calculator/MPG_Calculator/bin/iPhoneSimulator/Release/MPG_Calculator.exe
+/Users/b/Projects/iOS/MPG_Calculator/MPG_Calculator/bin/iPhoneSimulator/Release/MPG_Calculator.pdb
+/Users/b/Projects/iOS/MPG_Calculator/MPG_Calculator/obj/iPhoneSimulator/Release/ibtool/_BundleResourceWithLogicalName.items
+/Users/b/Projects/iOS/MPG_Calculator/MPG_Calculator/obj/iPhoneSimulator/Release/actool/_PartialAppManifest.items
+/Users/b/Projects/iOS/MPG_Calculator/MPG_Calculator/obj/iPhoneSimulator/Release/actool/_BundleResourceWithLogicalName.items
+/Users/b/Projects/iOS/MPG_Calculator/MPG_Calculator/obj/iPhoneSimulator/Release/coremlc/_PartialAppManifest.items
+/Users/b/Projects/iOS/MPG_Calculator/MPG_Calculator/obj/iPhoneSimulator/Release/coremlc/_BundleResourceWithLogicalName.items
+/Users/b/Projects/iOS/MPG_Calculator/MPG_Calculator/obj/iPhoneSimulator/Release/optimized/
+/Users/b/Projects/iOS/MPG_Calculator/MPG_Calculator/obj/iPhoneSimulator/Release/MPG_Calculator.csproj.CoreCompileInputs.cache
+/Users/b/Projects/iOS/MPG_Calculator/MPG_Calculator/obj/iPhoneSimulator/Release/MPG_Calculator.exe
+/Users/b/Projects/iOS/MPG_Calculator/MPG_Calculator/obj/iPhoneSimulator/Release/MPG_Calculator.pdb

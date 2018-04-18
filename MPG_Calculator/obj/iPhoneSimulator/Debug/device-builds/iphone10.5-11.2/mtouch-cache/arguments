@@ -1,0 +1,22 @@
+# Version: 11.9.1.24 (xcode9.3: f62de472)
+# [first argument, ignore] # --cache=/Users/b/Projects/iOS/MPG_Calculator/MPG_Calculator/obj/iPhoneSimulator/Debug/device-builds/iphone10.5-11.2/mtouch-cache
+/Library/Frameworks/Xamarin.iOS.framework/Versions/11.9.1.24/lib/mtouch/mtouch.exe \
+	--sim=/Users/b/Projects/iOS/MPG_Calculator/MPG_Calculator/bin/iPhoneSimulator/Debug/device-builds/iphone10.5-11.2/MPG_Calculator.app \
+	--executable=MPG_Calculator \
+	--debug \
+	--nolink \
+	--sdkroot=/Applications/Xcode.app/Contents/Developer \
+	--sdk=11.3 \
+	--targetver=11.2 \
+	--aot-options=-O=-float32 \
+	--http-message-handler=HttpClientHandler \
+	--abi=x86_64 \
+	--symbollist=/Users/b/Projects/iOS/MPG_Calculator/MPG_Calculator/obj/iPhoneSimulator/Debug/device-builds/iphone10.5-11.2/mtouch-symbols.list \
+	--dsym=no \
+	-r=/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/mscorlib.dll \
+	-r=/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/System.Core.dll \
+	-r=/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/System.dll \
+	-r=/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/System.Xml.dll \
+	-r=/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/Xamarin.iOS.dll \
+	'--target-framework=Xamarin.iOS,v1.0' \
+	--root-assembly=/Users/b/Projects/iOS/MPG_Calculator/MPG_Calculator/bin/iPhoneSimulator/Debug/MPG_Calculator.exe \
